@@ -4,7 +4,8 @@
   "description": "development trial",
   "main": "app.js",
   "scripts": {
-    "test": "no no"
+    "start": "echo hi"
+  
   },
   "author": "Sebastian Gabor",
   "license": "MIT",

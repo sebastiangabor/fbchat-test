@@ -1,0 +1,22 @@
+{
+  "name": "fbchatapp",
+  "version": "1.0.0",
+  "description": "development trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "no no"
+  },
+  "author": "Sebastian Gabor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiangabor/fbchat-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastiangabor/fbchat-test/issues"
+  },
+  "homepage": "https://github.com/sebastiangabor/fbchat-test#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
